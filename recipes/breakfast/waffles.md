@@ -2,8 +2,6 @@
 title: Waffles
 ---
 
-# Waffle Recipe
-
 ## Ingredients:
 - 2 cups all-purpose flour
 - 1 tablespoon baking powder

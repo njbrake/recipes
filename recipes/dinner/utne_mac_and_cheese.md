@@ -2,7 +2,6 @@
 title: Utne Mac and Cheese
 ---
 
-
 ## Ingredients
 1 small onion 
 Cracked pepper
