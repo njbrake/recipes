@@ -1,0 +1,4 @@
+uv.lock
+.pytest_cache/
+.venv/
+*.pyc
