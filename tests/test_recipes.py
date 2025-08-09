@@ -1,3 +1,4 @@
+
 from __future__ import annotations
 
 import re
@@ -22,16 +23,12 @@ def file_has_required_sections(path: Path) -> tuple[bool, list[str]]:
     return (len(missing) == 0, missing)
 
 
-def test_recipes_markdown() -> int:
+def test_recipes_markdown() -> None:
     root = Path(__file__).resolve().parent.parent / "recipes"
-    if not root.exists():
-        print(f"Path not found: {root}")
-        return 2
+    assert root.exists(), f"Path not found: {root}"
 
     md_files = collect_markdown_files(root)
-    if not md_files:
-        print(f"No markdown files found under {root}")
-        return 0
+    assert md_files, f"No markdown files found under {root}"
 
     failures: list[tuple[Path, list[str]]] = []
     for md in sorted(md_files):
@@ -40,13 +37,9 @@ def test_recipes_markdown() -> int:
             failures.append((md, missing))
 
     if failures:
-        print("Missing required sections:")
-        for path, missing in failures:
-            rel = path.relative_to(root)
-            print(f"- {rel}: missing {', '.join(missing)}")
-        return 1
-
-    print(f"All {len(md_files)} markdown files under {root} contain required sections.")
-    return 0
+        details = "\n".join(
+            f"- {path.relative_to(root)}: missing {', '.join(missing)}" for path, missing in failures
+        )
+        raise AssertionError(f"Missing required sections:\n{details}")
 
 
