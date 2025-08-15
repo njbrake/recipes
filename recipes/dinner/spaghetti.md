@@ -1,0 +1,7 @@
+---
+title: Spaghetti
+---
+
+## Ingredients
+
+## Instructions

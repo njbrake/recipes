@@ -1,0 +1,7 @@
+---
+title: Pancakes
+---
+
+## Ingredients
+
+## Instructions
