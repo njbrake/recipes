@@ -1,3 +1,3 @@
 # Brake Family Recipes
 
-All our favorite recipes, ad free :) 
+Our favorite recipes! A mix of family recipes, AI generated recipes, and BudgetBytes recipes

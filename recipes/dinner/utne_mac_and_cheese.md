@@ -18,7 +18,7 @@ Cracked pepper
 3. Heat onion, butter, and pepper in double boiler for 10 minutes.
 4. Add flour and stir until dissolved.
 5. Add Velveeta cheese (cut into cubes) and milk.
-6. Cook for 15 minutes stirring occasionally. 
+6. Cook for 15 minutes stirring occasionally.
 7. Coat a large pan with cooking spray.
 8. Add shells and hot dogs.
 9. Pour cheese sauce over top
