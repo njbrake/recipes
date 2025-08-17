@@ -1,6 +1,6 @@
 ---
 title: Chana Saag
-dates_made: [2023-12-28, 2024-03-26, 2024-07-11, 2024-12-04, 2025-02-21, 2025-06-09]
+dates_made: [2023-12-28, 2024-03-26, 2024-07-11, 2024-12-04, 2025-02-21, 2025-06-09, 2025-08-17]
 ---
 
 ## Ingredients
@@ -21,7 +21,7 @@ dates_made: [2023-12-28, 2024-03-26, 2024-07-11, 2024-12-04, 2025-02-21, 2025-06
 
 ## Instructions
 
-1. Begin the rice first. Add the rice and 3 cups water to a sauce pot. Cover with a lid, place the pot over high heat, and bring it up to a boil. reduce the heat to low and let simmer for 15 minutes. After 15 minutes, turn the heat off, and let the rice rest for 10 minutes, undisturbed, with the lid in place. Fluff with a fork just before serving.
+1. Start the rice.
 2. While the rice is cooking, begin the curry. Dice the onion, mince the garlic, and grate the ginger. Add the onion, garlic, and ginger to a large skillet with the olive oil and sauté over medium-low heat for about 5 minutes, or until the onion is soft. While these are cooking, dice the tomato.
 3. Add the curry powder and cumin to the skillet and continue to stir and cook for one minute more. Add the diced tomato and salt. Continue to cook for about five minutes more, or until the tomato has broken down.
 4. Drain the chickpeas in a colander and give them a quick rinse. Add the rinsed chickpeas, frozen spinach, and a half cup of water to the skillet. Stir everything together and then bring it up to a simmer over medium heat. Let the mixture simmer for five minutes to allow the flavors to blend.
