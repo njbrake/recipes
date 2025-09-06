@@ -1,10 +1,9 @@
 ---
-meal_type: side
+meal_type: dinner
 cooking_method: ['oven']
-difficulty: easy
+difficulty: medium
 dietary: ['vegetarian']
-title: Parmesan Zucchini
-description: See note in Recipe Notes
+title: White Pizza with Parsley Pesto Drizzle
 prep_time: 15
 cook_time: 30
 servings: 4

@@ -1,9 +1,8 @@
 ---
-meal_type: breakfast
+meal_type: dinner
 cooking_method: ['stovetop']
-difficulty: easy
-dietary: ['vegetarian']
-title: Pancakes
+difficulty: medium
+title: Basil Pesto Gnocchi with Mushrooms
 prep_time: 15
 cook_time: 30
 servings: 4

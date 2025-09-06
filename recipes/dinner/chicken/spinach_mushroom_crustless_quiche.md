@@ -1,9 +1,9 @@
 ---
-meal_type: breakfast
+meal_type: dinner
 cooking_method: ['stovetop']
-difficulty: easy
-dietary: ['vegetarian']
-title: Pancakes
+difficulty: medium
+dietary: ['gluten-free']
+title: Spinach and Mushroom Crustless Quiche
 prep_time: 15
 cook_time: 30
 servings: 4

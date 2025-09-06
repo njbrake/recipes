@@ -1,9 +1,9 @@
 ---
-meal_type: breakfast
-cooking_method: ['stovetop']
-difficulty: easy
+meal_type: dinner
+cooking_method: ['oven']
+difficulty: medium
 dietary: ['vegetarian']
-title: Pancakes
+title: Veggie Pizza
 prep_time: 15
 cook_time: 30
 servings: 4
