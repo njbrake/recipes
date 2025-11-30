@@ -10,7 +10,7 @@ servings: 4
 ---
 
 ## Ingredients:
-- 2 cups all-purpose flour
+- 240 g (2 cups) all-purpose flour
 - 1 tablespoon baking powder
 - 1/2 teaspoon salt
 - 2 tablespoons sugar
