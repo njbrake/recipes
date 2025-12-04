@@ -37,3 +37,7 @@ Optional:
 ## Raisin buns variation:
 1. Soak 350 g raisins in water for 15 minutes, then drain well.
 2. Add the drained raisins to the dough near the end of the kneading time in step 3 above, and proceed with the remaining steps as written.
+
+## Notes
+
+We were in Norway in 2022 and fell in love with https://www.godtbrod.no/. This recipe is based off of a recipe we found for their sweet rolls which I can no longer locate on the internet.

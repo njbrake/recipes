@@ -29,3 +29,7 @@ servings: 4
 This recipe typically yields about 4-6 waffles, depending on your waffle iron's size.
 
 For extra crispy waffles, you can try substituting 1/4 cup of the milk with club soda.
+
+## Notes
+
+Claude 4.5 Sonnet generated this recipe for me with the prompt "what's a great waffle recipe"
