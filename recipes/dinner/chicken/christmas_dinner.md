@@ -51,10 +51,10 @@ servings: 4
 
 ## Instructions
 
-1. **Preheat** the oven to 425 °F (220 °C).
-2. **Prepare the chicken:** Pat dry, rub with olive oil, salt & pepper. Mix lemon zest, juice, garlic, rosemary & thyme; stuff half the mixture plus a lemon wedge into the cavity.
-3. **Tie** legs (optional) and tuck wing tips under the body. Place chicken on a rack in a roasting pan.
-4. **Roast** 20 min at 425 °F, then reduce heat to 375 °F (190 °C) and roast another 35–45 min, or until thigh reaches 165 °F (74 °C).
+1. **Preheat** the oven to 350 °F
+2. **Prepare the chicken:** Pat dry, rub with olive oil, salt & pepper.
+3. Mix lemon zest, juice, garlic, rosemary & thyme; stuff half the mixture plus a lemon wedge into the cavity. Rub the other half onto the outside of the chicken.
+4. **Roast** chicken in roasting pan, 25 min per 1 lb of chicken
 5. **Rest** the chicken for 10 min, tented loosely with foil. While resting, make a quick pan sauce: add ½ cup stock or wine to the pan, scrape browned bits, reduce by half, whisk in 1 Tbsp cold butter, season.
 6. **Roast potatoes & carrots:** Toss with olive oil, rosemary, paprika, salt & pepper; spread on a baking sheet. Roast 35–40 min, turning halfway, until golden and tender.
 7. **Steam green beans:** Steam 4–5 min until bright green. In a pan, melt butter, add garlic until fragrant (≈30 s), toss beans in, season with salt & pepper.
