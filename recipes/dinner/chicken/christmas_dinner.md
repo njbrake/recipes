@@ -66,3 +66,5 @@ servings: 4
 ## Notes
 
 Christmas dinner! Created by BrakeChat, gpt-oss-20b (4-bit quant, MLX weights)
+
+I found this video helpful to learn how to carve the chicken: https://www.youtube.com/watch?v=owUitkVtubk&t=145s
