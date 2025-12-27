@@ -14,11 +14,12 @@ servings: 8
 - 1 jalapeño (≈65 g, ⅓ cup diced)
 - 2 garlic cloves (1 Tbsp minced)
 - 1 Tbsp cooking oil
-- ½ lb lean ground beef
+- 1 lb lean ground beef
 - 15 oz can black beans
+- Shredded mexican cheese
 - ½ Tbsp chili powder
 - ¼ tsp salt
-- 7.5 oz can pineapple chunks (half a 15‑oz can)
+- 15 oz can pineapple chunks (1 can)
 - 2 green onions, sliced
 - ¼ bunch fresh cilantro, roughly chopped
 - 12 6‑inch corn tortillas
@@ -35,24 +36,29 @@ servings: 8
 
 ## Instructions
 
+Preheat oven to 375 °F.
+
+### Cook meat
+
 Gather and prepare all ingredients.
 Slice the jalapeño lengthwise, remove seeds, dice the remaining parts; mince garlic.
 Sauté jalapeño and garlic with cooking oil in a large skillet over medium heat for 1–2 min until the garlic softens.
 Add ground beef and sauté until browned; drain excess fat if desired.
 Drain and rinse black beans, then add them with chili powder and salt; stir to combine and heat through.
 Drain pineapple chunks, roughly chop them, then add to the skillet with green onions and cilantro; stir.
-Preheat oven to 375 °F.
 
-**Enchilada sauce:**
+### Enchilada sauce
+
 Combine vegetable oil, flour, and chili powder in a medium pot. Whisk over medium heat until the mixture bubbles, then whisk for about one minute.
 Add water, tomato paste, cumin, garlic powder, cayenne pepper (if using), cocoa powder (if using), and salt. Whisk until combined, then let it simmer; it will thicken. Turn off heat.
 
+## Combine
 Warm tortillas in the microwave, 4–6 at a time, covered with a damp paper towel.
 Fill each tortilla with about 3 Tbsp of the beef mixture and roll it up. Place seam side down in a 9×13‑inch casserole dish.
 Add a little sauce to the bottom of the dish, then place the rolled tortillas in. Repeat until all filling is used.
+Sprinkle shredded cheese on top before baking.
 Pour remaining sauce over the enchiladas and bake for 30 min, or until tortilla edges are crispy and sauce is bubbling.
-Optional: sprinkle shredded cheese on top before baking.
 
 ## Notes
 
-Drain canned pineapple to avoid soggy bottoms.
+Drain canned pineapple to avoid soggy bottom.
