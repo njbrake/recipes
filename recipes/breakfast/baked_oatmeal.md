@@ -11,8 +11,8 @@ servings: 6
 
 ## Ingredients
 
-- 2 cups old fashioned oats
-- 1/3 cup packed light brown sugar
+- 180g old fashioned oats (~2 Cups)
+- 73g cup packed light brown sugar (~1/3 Cup)
 - 1 1/2 teaspoons ground cinnamon
 - 1 teaspoon baking powder
 - 1/4 teaspoon salt
@@ -21,7 +21,7 @@ servings: 6
 - 2 tablespoons unsalted butter, melted and slightly cooled
 - 1 large egg, beaten
 - 1 teaspoon vanilla extract
-- 1/3 cup raisins or dried cranberries
+- 65g raisins or dried cranberries (~1/3 Cup)
 
 ## Instructions
 
