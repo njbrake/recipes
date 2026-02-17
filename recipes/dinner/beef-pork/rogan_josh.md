@@ -35,3 +35,5 @@ Paprika, garlic, ginger, cumin, coriander, Tellicherry black pepper, cayenne pep
 8. Raise heat and reduce sauce until thick.
 
 ## Notes
+
+- Recipe came from a Penzeys spice bottle.
